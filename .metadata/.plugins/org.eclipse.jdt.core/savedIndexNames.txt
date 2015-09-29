@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\karenrojas1994.ar\sandbox\java\yearup\.metadata\.plugins\org.eclipse.jdt.core
+3822937594.index
+3540839101.index
+2466087879.index
+2295974758.index

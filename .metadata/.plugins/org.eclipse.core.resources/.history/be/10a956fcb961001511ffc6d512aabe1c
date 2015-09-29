@@ -1,0 +1,13 @@
+package project1;
+
+public class Intro {
+
+	public static void main(String[] args) {
+		System.out.println("My name is Ana.");
+		System.out.println("My favorite book is Always Watching.");
+		System.out.println("I won a certificate from U.S congress for painting");
+		
+		
+	}
+
+}
